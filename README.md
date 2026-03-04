@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey, I'm Jetsukda 👋
 
-<!--
-**0xKoios/0xKoios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Engineer · Bangkok, Thailand
+- [![Website](https://img.shields.io/badge/jetsukda.dev-000?style=flat-square&logo=safari&logoColor=white)](https://jetsukda.dev)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jetsukda)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔧 I build data pipelines and infrastructure
+- ⚡ Currently in the crypto/fintech space
+- 🌱 Before that — DeFi protocols and AI-powered document processing
+
+---
+
+### What I work with
+
+[![](https://skillicons.dev/icons?i=py,postgres,docker,kubernetes,terraform,githubactions,gcp,tensorflow)](https://skillicons.dev)
+
+**Data stack** — dbt, dlt, Dagster, Apache Airflow, Airbyte, BigQuery, Snowflake
