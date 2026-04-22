@@ -8,7 +8,7 @@ Data Engineer · Bangkok, Thailand
 
 - 🔧 I build data pipelines and infrastructure
 - ⚡ Currently in the crypto/fintech space
-- 🌱 Before that — DeFi protocols and AI-powered document processing
+- 🌱 Before that — Crypto Fund and AI-powered document processing
 
 ---
 
